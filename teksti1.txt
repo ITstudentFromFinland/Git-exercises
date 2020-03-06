@@ -1,2 +1,6 @@
 TÄMÄ ON TEKSTI 1!!!!
+<<<<<<< HEAD
 Tähän piti lisätä vielä jotain.
+=======
+TÄTÄ TEKSTIÄ VOI VAPAASTI MUUTTAA!
+>>>>>>> Features/Teksti2
